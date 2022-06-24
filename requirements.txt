@@ -1,0 +1,11 @@
+pytest-runner
+mmcv-full==1.2.7
+mmdet==2.10.0
+xonsh
+tqdm
+albumentations
+pympler
+timm
+dataclasses
+seaborn
+imgaug
