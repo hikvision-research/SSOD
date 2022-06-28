@@ -84,9 +84,9 @@ xonsh eval.sh
 
 | Model   | Supervision | AP   | Config | Model Weights |
 | :-------: | :-----------: | :--: | :-----------: | ------------- |
-| R50-FPN | 1%          | 25.81$\pm$0.28 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
-| R50-FPN | 5% | 32.70$\pm$0.18 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
-| R50-FPN | 10% | 35.49$\pm$0.17 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
+| R50-FPN | 1%          | 25.81±0.28 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
+| R50-FPN | 5% | 32.70±0.18 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
+| R50-FPN | 10% | 35.49±0.17 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [To-Be-Released]() |
 
 - Please refer to [performance.md](./docs/performance.md) for more performance presentation.
 
