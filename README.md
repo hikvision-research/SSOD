@@ -12,7 +12,7 @@
 #### Prerequisites
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 - Linux with Python >= 3.6
