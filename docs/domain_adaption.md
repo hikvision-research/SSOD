@@ -47,7 +47,7 @@ xonsh train_gpu2.sh ./configs/baseline/baseline_uda.py C2F
 ## there are four adaptation tasks: C2F, C2B, K2C, S2C
 ## C2F and C2B share the same "source only" model
 cd examples/train/xonsh
-xonsh train_gpu8.sh ./configs/labelmatch/label_match_uda.py C2F
+xonsh train_gpu8.sh ./configs/labelmatch/labelmatch_uda.py C2F
 ```
 
 - In our implementation, we use 8-gpus to train.
