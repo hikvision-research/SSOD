@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 - Linux with Python >= 3.6
-- We use mmdet=2.10.0, pytorch=1.8.1
+- We use mmdet=2.10.0, pytorch=1.6.0
 
 #### Data Preparation
 
