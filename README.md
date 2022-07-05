@@ -64,7 +64,7 @@ xonsh train_gpu2.sh ./configs/baseline/baseline_ssod.py 1 1 coco-standard
 ```shell
 ## note: dataset is set to none in this step.
 cd examples/train/xonsh
-xonsh train_gpu8.sh ./configs/labelmatch/label_match_standard.py 1 1 none
+xonsh train_gpu8.sh ./configs/labelmatch/labelmatch_standard.py 1 1 none
 ```
 
 - In our implementation, we use 8-gpus to train.
