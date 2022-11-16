@@ -86,7 +86,7 @@ xonsh eval.sh
 | :-------: | :-----------: | :--: | :-----------: | ------------- |
 | R50-FPN | 1%          | 25.81±0.28 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [baseline-1-1](./docs/log/baseline_1_1.log), [labelmatch-1-1-40k](./docs/log/labelmatch_1_1_40k.log) |
 | R50-FPN | 5% | 32.70±0.18 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [baseline-1-5](./docs/log/baseline_1_5.log), [labelmatch-1-5-40k](./docs/log/labelmatch_1_5_40k.log) |
-| R50-FPN | 10% | 35.49±0.17 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [baseline-1-1](./docs/log/baseline_1_10.log), [labelmatch-1-10-40k](./docs/log/labelmatch_1_10_40k.log) |
+| R50-FPN | 10% | 35.49±0.17 | [labelmatch_standard_paper](./configs/labelmatch/labelmatch_standard_paper.py) | [baseline-1-10](./docs/log/baseline_1_10.log), [labelmatch-1-10-40k](./docs/log/labelmatch_1_10_40k.log) |
 
 - Please refer to [performance.md](./docs/performance.md) for more performance presentation.
 

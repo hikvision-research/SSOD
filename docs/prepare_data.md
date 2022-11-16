@@ -15,16 +15,16 @@ We support 5 popular settings in SSOD research as listed below：
 1. Download [VOC](http://host.robots.ox.ac.uk/pascal/VOC/) and [COCO](https://cocodataset.org/#home) from the website and organize them as follows:
 
    ```shell
-   # ====coco====                      |          # ====voc====
-   /data/coco/                         |          /data/voc/
-     - images                          |            - 12
-       - train2017                     |     		  - VOCdevkit
-       - unlabeled2017                 |                - VOC2012
-   	   - ...                           |                  - ...      
-     - annotations                     |            - 07
-   	   - instances_train2017.json      |              - VOCdevkit
-   	   - image_info_unlabeled2017.json |                - VOC2007
-   	   - ...						   |                  - ...						
+   # ====coco====                      |    # ====voc====
+   /data/coco/                         |    /data/voc/
+     - images                          |     - 12
+       - train2017                     |       - VOCdevkit
+       - unlabeled2017                 |         - VOC2012
+   	   - ...                           |                
+     - annotations                     |     - 07
+   	   - instances_train2017.json      |       - VOCdevkit
+   	   - image_info_unlabeled2017.json |         - VOC2007
+   	   - ...						   |						
    ```
 
 2. Run scripts to  create the soft symlink：
